@@ -1,6 +1,9 @@
 📚 Library Management System
  Description:
 
+This project is developed for SSLD Varshney Engineering College Library.
+
+
 This project is a Library Management System developed using Python. 
 It helps in managing library operations such as adding books,
 issuing and returning books, maintaining user records,
